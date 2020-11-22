@@ -31,4 +31,4 @@ The commands you have access to are listed below. Type %help [command] for more 
 
 %transfer · Transfer ownership of a ticket channel
 
-Please contact to 1816#1816 if you require assistance.
+Please contact to [1816#1816](http://dsc.bio/1488) if you require assistance.
