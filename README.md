@@ -15,7 +15,7 @@ The commands you have access to are listed below. Type %help [command] for more 
 
 %new · Create a new support ticket
 
-%panel · Create or a panel widget in the channel the comman...
+%panel · Create or a panel widget in the channel the command
 
 %remove · Remove a member from ticket channel
 
@@ -23,7 +23,7 @@ The commands you have access to are listed below. Type %help [command] for more 
 
 %stats · View ticket stats.
 
-%tickets · List your recent tickets to access transcripts / a...
+%tickets · List your recent tickets to access transcripts
 
 %topic · Edit a ticket topic
 
